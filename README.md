@@ -13,6 +13,10 @@ This repository contains solutions to daily JavaScript coding challenges that I 
 
 To get started with this repository, you will need to have Node.js and Git installed on your machine. You can download Node.js from the official website at [https://nodejs.org](https://nodejs.org) and Git from the official website at [https://git-scm.com/downloads](https://git-scm.com/downloads).
 
+## Usage 
+
+I created this repo to learn in public and anybody who wants to learn javascript can have a look, might be helpful for them.
+
 ## Contributing
 
 If you would like to contribute to this repository, you can do so by submitting a pull request. Please make sure that your code follows the same coding style and conventions as the existing code in the repository.
