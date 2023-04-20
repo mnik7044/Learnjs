@@ -8,7 +8,10 @@ let firstName;
 let lastName;
 let age;
 
+
+
 age = 15;
 firstName = Nikhil;
 lastName = Mishra;
 console.log( firstName, age , lastName);
+

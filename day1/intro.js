@@ -15,3 +15,8 @@ age = 15;
 firstName = "Nikhil";
 lastName = "Mishra";
 console.log( firstName, age , lastName);
+
+let myAge = 19;
+let dogratio = 7;
+let mydogAge = myAge*dogratio;
+console.log(mydogAge);

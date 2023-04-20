@@ -19,6 +19,4 @@ console.log(challenge.indexOf('a'))
 console.log(challenge.search('Days'))
 console.log(parseFloat(9.8))
 
-const sentence = 'Love is the best thing in this world. Some found their love and some are still looking for their love.';
-const count = (sentence.match(/love/gi) ).length;
-console.log(count); 
+
