@@ -1,5 +1,8 @@
-mylife = [
-"nikhil at 15",
-"nikhil at 25",
-"nikhil at 50"
-]
+// My first object
+let castle = {
+    title: "god",
+    money: 1000000,
+    isHot: false,
+    
+
+}
