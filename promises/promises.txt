@@ -1,0 +1,20 @@
+Promise is a promise of code execution promise either fullfills or not in both case the user is informed.
+Promise is the solution of callback hell.
+
+Promise ya to resolve hota hai ya to reject hota hai.
+
+Syntax of promise is 
+let promise = new promise(function(resolve,reject){
+    
+})
+
+
+Promise ko use karne ke liye kuch methods hote hai
+They are:
+
+then()-- Used with callback when the promise is successfully resolved or fullfilled
+catch()-- It is used with callback when your promise is rejected or if an error occurs
+finally()-- Used when the promised is either resolved sucvcesfully or rejected succesfully/Mtlb ye farak nahi padta ki resolve hua ya reject hua hai finally har case nme chalega
+
+
+Promise do step me hota hai pehle usko create karna hota hai then usko use krna hota hai
